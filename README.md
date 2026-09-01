@@ -2,7 +2,7 @@
   <img src="https://images-ext-2.discordapp.net/external/CxxtcDRzh0SzoXrNRRPH3Eiu8wrFlKCdiCkC8hIY73E/https/cdn.weeb.sh/images/HJAx4ktD-.gif" alt="anime-custom-image"/>
 </p>
 <h1 align="center">Hello, I'm Azekialze</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">Tester</h3>
 <!-- <img align="right" alt="anime-custom-image" width="220" src="https://media.tenor.com/hZJlNhWdhF0AAAAC/mafumafu-mafu.gif"> -->
 
 - 🌱 I’m currently learning **Python**
