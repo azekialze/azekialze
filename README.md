@@ -2,12 +2,10 @@
   <img src="https://images-ext-2.discordapp.net/external/CxxtcDRzh0SzoXrNRRPH3Eiu8wrFlKCdiCkC8hIY73E/https/cdn.weeb.sh/images/HJAx4ktD-.gif" alt="anime-custom-image"/>
 </p>
 <h1 align="center">Hello, I'm Azekialze</h1>
-<h3 align="center">Tester</h3>
+<h3 align="center">pengujian</h3>
 <!-- <img align="right" alt="anime-custom-image" width="220" src="https://media.tenor.com/hZJlNhWdhF0AAAAC/mafumafu-mafu.gif"> -->
 
 - 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Javascript**
 
 - ⚡ Fun fact **Did you know if octopus has 3 hearts?**
 
@@ -50,8 +48,6 @@
 <h3 align="left">My OS:</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kalilinux">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
 </p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/1389219080879214697/">
