@@ -3,12 +3,9 @@
 </p>
 <h1 align="center">Hello, I'm Azekialze</h1>
 <!-- <img align="right" alt="anime-custom-image" width="220" src="https://media.tenor.com/hZJlNhWdhF0AAAAC/mafumafu-mafu.gif"> -->
--**?**
 
 - 🌱 I’m currently learning **Python**
-
-- ⚡ Fun fact **Did you know if octopus has 3 hearts?**
-
+- 
 <h3 align="left">Languages:</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
