@@ -26,7 +26,7 @@
 
 <p>
   <img src="https://discord.c99.nl/widget/theme-3/1389219080879214697.png" alt="Discord Status" />
-</p><p align="center">
+</p><p>
   <a href="https://discord.com/users/1389219080879214697">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
