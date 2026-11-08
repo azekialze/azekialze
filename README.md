@@ -24,7 +24,7 @@
 
 <img src="assets/img/Omake Gif Anime - Date A Live S3 - Episode 9 - Past Kurumi.gif"><a/>
 
-<p align="center">
+<p>
   <img src="https://discord.c99.nl/widget/theme-3/1389219080879214697.png" alt="Discord Status" />
 </p><p align="center">
   <a href="https://discord.com/users/1389219080879214697">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <i>"Teruslah mencari, jangan menyerah
 . Tetaplah haus akan pengetahuan, tetaplah berani mengambil risiko.."</i>
 </p>
