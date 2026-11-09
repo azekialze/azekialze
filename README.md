@@ -2,9 +2,9 @@
 
 ---
 
-✨ You can call me Zekial or Azel
-❤️ I like 👨‍💻coding and 📷photography  
-🏳️ No position: Just wanna be free, say what I want, do what I want, and be who I want 
+✨ You can call me Zekial or Azel<br>
+❤️ I like 👨‍💻coding and 📷photography<br>
+🏳️ No position: Just wanna be free, say what I want, do what I want, and be who I want <br>
 👀 More about me ->
 
 I'm interested in technology, programming, and digital experimentation. I enjoy learning new things and understanding how technology works.
