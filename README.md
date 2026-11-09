@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=FFFFFF&center=true&vCenter=true&lines=Hai there%2C+I'am+Azekialze+👋" alt="Typing SVG" />
-
+<code align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hai+there%2C+I'm+Azekialze+%F0%9F%91%8B" alt="Typing SVG" /></code>
 ---
 ✨ You can call me Zekial or Azel
 ❤️ I like 👨‍💻coding and 📷photography  
