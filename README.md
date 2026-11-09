@@ -1,4 +1,4 @@
-<code><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=FFFFFF&center=true&vCenter=true&lines=Hai there%2C+I'am+Azekialze+👋" alt="Typing SVG" /></code
+<code><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=FFFFFF&center=true&vCenter=true&lines=Hai there%2C+I'am+Azekialze+👋" alt="Typing SVG" /></code>
 
 ---
 
