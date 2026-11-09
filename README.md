@@ -25,11 +25,11 @@ I'm interested in technology, programming, and digital experimentation. I enjoy 
 
 <img src="https://discord.c99.nl/widget/theme-3/1389219080879214697.png" alt="Discord Status" />
 
+<img src="assets/img/Omake Gif Anime - Date A Live S3 - Episode 9 - Past Kurumi.gif"><a/>
+
 #### 🌐`Sosicals`:
 
 <code><a href="https://discord.com/users/1389219080879214697"><img height="20" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a></code>
 <code><a href="https://www.instagram.com/azekielze.exe"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></code>
 <code><a href="https://www.tiktok.com/@azekialze.exe"><img height="20" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" /></a></code>
 <code><a href="https://youtube.com/@azekialze"><img height="20" src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=Youtube&logoColor=white" alt="YouTube" /></a></code>
-
-<img src="assets/img/Omake Gif Anime - Date A Live S3 - Episode 9 - Past Kurumi.gif"><a/>
